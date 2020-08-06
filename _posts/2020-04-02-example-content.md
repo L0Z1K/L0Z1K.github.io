@@ -34,6 +34,9 @@ Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est 
 ### Code
 
 Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+```python
+print("HI")
+```
 
 {% highlight js %}
 // Example can be run directly in your JavaScript console
