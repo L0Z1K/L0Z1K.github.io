@@ -90,7 +90,7 @@ $$
 **Theorem 2** : If the basis $$\{\bf{b_1, b_2, ...,b_m}\}$$ is *c-reduced* and $$\lambda$$ is the shortest vector norm, then :
 
 $$
-\|b_1\|\leq c^{(m-1)/4}\det A^{\frac{1}{m}}\\
+\|b_1\|\leq c^{(m-1)/4}\det \Lambda^{\frac{1}{m}}\\
 \|b_1\|\leq c^{(m-1)/2}\lambda
 $$
 
