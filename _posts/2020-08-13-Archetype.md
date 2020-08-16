@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Hack the Box] Starting Point"
+title: "[Hack the Box] Archetype"
 categories: Write-up
 ---
 ```bash
