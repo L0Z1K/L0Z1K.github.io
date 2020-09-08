@@ -11,7 +11,7 @@ title: About Me
 
 ### 2020
 * Crypto CTF 2020 rank 19th
-* Codegate CTF 2020 Finalist (Team. CyBie)
+* Codegate CTF 2020 Finals rank 6th (Team. CyBie)
 
 ### Contact
 * E-mail : qortmddbs731@korea.ac.kr
