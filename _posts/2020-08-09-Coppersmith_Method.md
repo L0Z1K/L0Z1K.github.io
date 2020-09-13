@@ -251,6 +251,8 @@ I uploaded the whole sage file below this article.
 
 <br>
 
-#### References
+### References
 
 [LLL lattice basis reduction algorithm - Helfer Etienne](https://algo.epfl.ch/_media/en/projects/bachelor_semester/rapportetiennehelfer.pdf)
+
+- - -

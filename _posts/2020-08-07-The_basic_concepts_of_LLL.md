@@ -103,15 +103,13 @@ $$
 
 **Conclusion : So we can make reduced basis by LLL efficiently!**
 
-- - -
-
-#### References
+### References
 
 [Factoring Polynomials with Rational Coefficients - A. K. Lenstra](https://www.math.leidenuniv.nl/~hwl/PUBLICATIONS/1982f/art.pdf)
 
 [LLL lattice basis reduction algorithm - Helfer Etienne](https://algo.epfl.ch/_media/en/projects/bachelor_semester/rapportetiennehelfer.pdf)
 
-
+- - -
 
 
 
