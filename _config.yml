@@ -1,0 +1,45 @@
+# Site Info
+title:              "I Like"
+description:        "I will post write-up of CTF and some interesting researches. Made by L0Z1K."
+author_name:        "Seungyun Baek" # change this to your name
+logo_url:           https://avatars2.githubusercontent.com/u/64528476?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+
+# Site Settings
+url:                https://k1z0l.github.io/ # main url
+baseurl:            
+permalink:          /:title # Post permalink
+timezone:           Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
+
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
+plugins:
+  - jekyll-sitemap
+
+remote_theme: heiswayi/the-plain
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
