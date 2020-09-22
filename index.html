@@ -1,33 +1,38 @@
 ---
 layout: default
-title: Home
 ---
 
 <section>
+	<h3 class="code">Research</h3>
 
 	{% for post in site.posts %}
-		{% if post.category == "write-up" %}
-			{% unless post.next %}
-				<h3 class="code">{{ post.date | date: '%Y' }}</h3>
-			{% else %}
-				{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-				{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-				{% if year != nyear %}
-					<h3 class="code">{{ post.date | date: '%Y' }}</h3>
-				{% endif %}
-			{% endunless %}
-
+		{% if post.category == "research" %}
 			<ul>
 				<li>
 					<div class="post-date code">
-						<span>{{ post.date | date: "%b %d" }}</span>
+						<span>{{ post.date | date: "%b %d %Y" }}</span>
 					</div>
 					<div class="title">
-						<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
+						<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title}}</a>
 					</div>
 				</li>
 			</ul>
 		{% endif %}
 	{% endfor %}
 
+	<h3 class="code">Write-Up</h3>
+	{% for post in site.posts %}
+		{% if post.category == "write-up" %}
+			<ul>
+				<li>
+					<div class="post-date code">
+						<span>{{ post.date | date: "%b %d %Y" }}</span>
+					</div>
+					<div class="title">
+						<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title}}</a>
+					</div>
+				</li>
+			</ul>
+		{% endif %}
+	{% endfor %}
 </section>

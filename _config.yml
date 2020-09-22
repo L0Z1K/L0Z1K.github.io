@@ -1,22 +1,45 @@
-# Setup
-title:               I Like
-tagline:             Crypto, Forensics, etc.
-description:         I will post write-up of CTF and some interesting researches. Made by <a href="https://www.github.com/L0Z1K" target="_blank">L0Z1K</a>.
-url:                 https://L0Z1K.github.io
-baseurl:             ''
-paginate:            5
-permalink:           pretty
+# Site Info
+title:              "I Like"
+description:        "I will post write-up of CTF and some interesting researches. Made by L0Z1K."
+author_name:        "Seungyun Baek" # change this to your name
+logo_url:           https://avatars2.githubusercontent.com/u/64528476?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
-# About/contact
-author:              L0Z1K
-name:              Baek Seungyun
-url:               https://L0Z1K.github.io
-email:             qortmddbs731@korea.ac.kr
+# Site Settings
+url:                https:/l0z1k.github.io/ # main url
+baseurl:            
+permalink:          /:title # Post permalink
+timezone:           Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
-# Gems
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
 plugins:
-  - jekyll-paginate
+  - jekyll-sitemap
 
-# Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+remote_theme: heiswayi/the-plain
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"

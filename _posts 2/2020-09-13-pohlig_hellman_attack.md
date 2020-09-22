@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pohlig-Hellman Attack in ECDLP
-category: research
+categories: Research
 ---
 
 ## Elliptic Curves

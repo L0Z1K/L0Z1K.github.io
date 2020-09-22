@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Basic Concepts of LLL
-category: research
+categories: Research
 ---
 
 **In order to read this article properly, you need to have knowledge of linear algebra.**
