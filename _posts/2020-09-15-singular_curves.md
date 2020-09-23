@@ -24,7 +24,31 @@ $$
 
 <br>
 
-Let me show you an example.
+There is a multiple root in $$x^{3}+ax+b=0$$ when the discriminant is zero. It can be divided into two cases.
+
+First, it has triple root. In this case, we can substitute the polynomial to $$x^{3}$$.
+
+Second, it does not. In this case, we can substitute the polynomial to $$x^{2}(x+a)$$.
+
+
+
+### When $$y^{2}=x^{3}$$,
+
+We can substitute elliptic curve points to multiplicative group,
+$$
+(x,y) \mapsto \frac{x}{y}
+$$
+
+
+### When $$y^{2}=x^{2}(x+a)$$,
+
+If there exists $$\alpha$$ such that $$\alpha^{2}=a$$, we can substitute samely.
+$$
+(x,y) \mapsto \frac{y+\alpha x}{y-\alpha x}
+$$
+
+
+### Example
 
 We begin with the singular curve
 
