@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding small roots of modular equations in univariate case
+title: Finding Small Roots of Univariate Modular Polynomial Equations
 category: research
 ---
 
