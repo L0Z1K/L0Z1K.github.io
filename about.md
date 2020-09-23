@@ -5,7 +5,7 @@ title: About
 
 Hello.
 
-My name is Baek Seungyun. Welcome to my blog! I usually study about crypto (yet). I want to be crypto genius!
+My name is Baek Seungyun. Welcome to my blog! I usually study about crypto (yet).
 
 My article can be largely divided into two parts, Write-up and some research review. Let's enjoy studying!
 
