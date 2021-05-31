@@ -19,3 +19,6 @@ I Like *.
 
 ### Contact
 * E-mail : qortmddbs731@korea.ac.kr
+* [Github](https://github.com/L0Z1K)
+* [LinkedIn](https://www.linkedin.com/in/seungyun-baek-aa40a4211/)
+* [Facebook](https://www.facebook.com/profile.php?id=100068601849227)
