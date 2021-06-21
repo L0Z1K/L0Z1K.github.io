@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I Like *.  
+I want to create a more comfortable world using AI. I live with the mindset of not giving up even if I'm tired and slow down.
 
 ### Education
 * Korea University (2019 ~ )
