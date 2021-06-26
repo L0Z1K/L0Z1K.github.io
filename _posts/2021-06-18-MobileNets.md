@@ -133,10 +133,6 @@ Compared with popular models, MobileNet is nearly as accurate as them while bein
 
 They proposed a new model architecture call MobileNets based on depthwise separable convolutions. They then demonstrated how to build smaller and faster MobileNets using width multiplier and resolution multiplier.
 
-### Comments
-
-어쩌다 이 논문을 접하고 내용도 짧고 오랜만에 논문 정리도 해볼겸 해서 시도해봤다. 이 논문을 다룬 블로그를 하나도 참고하지 않고 오직 내가 논문에서 얻은 내용으로만 정리해보았다. 생각보다 논문을 읽음으로써 오랜만에 CNN도 다시 공부하고 좋은 경험이었다. 요즘 정말로 모델의 크기만 키우는 데에 급급하고 1%의 정확도를 위해 파라미터 수를 몇 배 키우는 거에 서슴치 않는다. 그런 느슨해진 우리에게 다시 긴장감을 불어넣는 그런 논문이었던 것 같다. 모델 구조도 자세하게 적혀있어서 시간이 허락한다면 모델 구현도 해서 논문 검증도 해보고 싶다.
-
 ### References
 
 [1] [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
@@ -148,3 +144,11 @@ They proposed a new model architecture call MobileNets based on depthwise separa
 [4] [CNN, Convolutional Neural Network 요약](http://taewan.kim/post/cnn/)
 
 [5] [딥러닝 용어정리, RMSProp, Adam 설명](https://light-tree.tistory.com/141)
+
+- - -
+
+### Comments
+
+어쩌다 이 논문을 접하고 내용도 짧고 오랜만에 논문 정리도 해볼겸 해서 시도해봤다. 이 논문을 다룬 블로그를 하나도 참고하지 않고 오직 내가 논문에서 얻은 내용으로만 정리해보았다. 생각보다 논문을 읽음으로써 오랜만에 CNN도 다시 공부하고 좋은 경험이었다. 요즘 정말로 모델의 크기만 키우는 데에 급급하고 1%의 정확도를 위해 파라미터 수를 몇 배 키우는 거에 서슴치 않는다. 그런 느슨해진 우리에게 다시 긴장감을 불어넣는 그런 논문이었던 것 같다. 모델 구조도 자세하게 적혀있어서 시간이 허락한다면 모델 구현도 해서 논문 검증도 해보고 싶다.
+
+- - -
