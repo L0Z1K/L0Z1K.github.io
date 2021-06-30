@@ -10,7 +10,7 @@ I want to create a more comfortable world using AI. I live with the mindset of n
 * Seoul Science High School (2016 ~ 2019)
 
 ### Work
-* ML Engineer on Corca AI (2021.04 ~ Present)
+* ML Engineer on Corca AI (2021.03 ~ Present)
 * NLP Engineer on Mindlogic (2021.01 - 2021.03)
 
 ### 2020
