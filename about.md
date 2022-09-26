@@ -19,6 +19,4 @@ I want to create a more comfortable world using AI. I live with the mindset of n
 
 ### Contact
 * E-mail : qortmddbs731@korea.ac.kr
-* [Github](https://github.com/L0Z1K)
-* [LinkedIn](https://www.linkedin.com/in/seungyun-baek-aa40a4211/)
-* [Facebook](https://www.facebook.com/profile.php?id=100068601849227)
+* [CV](/docs/CV_2022_09_26.pdf)
