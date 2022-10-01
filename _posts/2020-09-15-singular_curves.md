@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Use Singular Curves in ECC
-category: research
+category: archived
 ---
 
 In mathematics, an elliptic curve is a plane algebraic curve defined by an equation of the form

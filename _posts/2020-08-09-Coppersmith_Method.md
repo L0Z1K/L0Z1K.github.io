@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding Small Roots of Univariate Modular Polynomial Equations
-category: research
+category: archived
 ---
 
 In this article, we present the Coppersmith method to find small roots of a monic univariate polynomial. I recommend to read [The Basic Concepts of LLL](/research/2020/08/07/The_basic_concepts_of_LLL/) first.

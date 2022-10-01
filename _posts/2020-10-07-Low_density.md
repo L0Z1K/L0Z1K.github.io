@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Low-Density Attack on Subset Sum Problem
-category: research
+category: archived
 ---
 
 The low-density attack proposed by Lagarias and Odlyzko is a powerful algorithm against the subset sum problem. What is the subset sum problem?
