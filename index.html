@@ -3,24 +3,7 @@ layout: default
 ---
 
 <section>
-	<h3 class="code">Daily Life</h3>
-
-	{% for post in site.posts %}
-		{% if post.category == "daily_life" %}
-			<ul>
-				<li>
-					<div class="post-date code">
-						<span>{{ post.date | date: "%b %d %Y" }}</span>
-					</div>
-					<div class="title">
-						<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title}}</a>
-					</div>
-				</li>
-			</ul>
-		{% endif %}
-	{% endfor %}
-
-	<h3 class="code">Research</h3>
+	<h3 class="code">Research Review</h3>
 
 	{% for post in site.posts %}
 		{% if post.category == "research" %}
@@ -37,9 +20,10 @@ layout: default
 		{% endif %}
 	{% endfor %}
 
-	<h3 class="code">Write-Up</h3>
+	<h3 class="code">Daily Life</h3>
+
 	{% for post in site.posts %}
-		{% if post.category == "write-up" %}
+		{% if post.category == "daily_life" %}
 			<ul>
 				<li>
 					<div class="post-date code">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kakao Code Festival 2018 Write-Up
-category: write-up
+category: archived
 ---
 
 2018년 문제를 2021년이 되서야 푼다는 게 뭔가 뒤쳐지는 것 같아서 좀 그렇다 ㅎㅎ.. 카카오가 주최한 대회니만큼 문제에서 얻을 가치가 많다고 생각하여 풀게 되었다.
