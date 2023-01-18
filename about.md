@@ -13,10 +13,6 @@ I want to create a more comfortable world using AI. I live with the mindset of n
 * ML Engineer on Corca AI (2021.03 ~ Present)
 * NLP Engineer on Mindlogic (2021.01 - 2021.03)
 
-### 2020
-* Codegate CTF 2020 Finals rank 6th (Team. CyBie)
-* Crypto CTF 2020 rank 19th
-
 ### Contact
 * E-mail : qortmddbs731@korea.ac.kr
 * [CV](/docs/CV_2022_09_26.pdf)
