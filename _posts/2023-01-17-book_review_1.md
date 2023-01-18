@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 나를 기어코 글을 쓰게 만든 책 『역행자』 를 읽고 든 생각 중 일부
+title: 나를 기어코 글을 쓰게 만든 책 『역행자』 를 읽고 든 생각
 category: write_anything
 ---
 
